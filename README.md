@@ -2,8 +2,8 @@
 ### 🌱 I’m currently learning  something interesting
 
 
-![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Linear-optimize)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linear-optimize)
+![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MAX)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Max)
 <br>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
