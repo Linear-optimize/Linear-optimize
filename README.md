@@ -1,5 +1,8 @@
 ## Hi there 👋 
 ### 🌱 I’m currently learning  Data Viz & Frontend Playground
+ 
+ 
+
 
 
 ![hackematrix's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Linear-optimize&bg_color=1a1b26&color=c0caf5&line=bb9af7&point=7dc4e4&area=true)
@@ -11,3 +14,10 @@
 <img src="https://img.shields.io/badge/-Rust-CC6600?style=flat-square&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/-Mathematica-FF0000?style=flat-square&logo=wolframmathematica&logoColor=white" />
 
+### Languages and Tools  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,react,typescript,rust" />
+  </a>
+</p>
