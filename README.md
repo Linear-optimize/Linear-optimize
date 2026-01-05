@@ -6,7 +6,7 @@
 | ------------- | ------------- |
 
 ## Github Activity Graph
-[![Linear-optimize's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Linear-optimize&theme=nightowl)](https://github.com/Linear-optimize/github-readme-activity-graph)
+[![Linear-optimize's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Linear-optimize&theme=catppuccin_mochal)](https://github.com/Linear-optimize/github-readme-activity-graph)
 
 
 
