@@ -1,4 +1,3 @@
-#  ❄️Purity is my highest pursuit.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=maple+mono+normal&pause=1000&width=435&lines=Hi!I'm+Linear-optimize)](https://git.io/typing-svg)
 
 ## Github stats
