@@ -11,7 +11,7 @@
 [![Linear-optimize's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Linear-optimize&theme=nord)](https://github.com/Linear-optimize/github-readme-activity-graph)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,docker,git,go,js,neovim,rust,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,go,ts,rust,docker,git,neovim,vscode&theme=light)](https://skillicons.dev)
 
 
 
