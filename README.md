@@ -13,8 +13,5 @@
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=c,go,ts,rust,docker,git,neovim,vscode,clion&theme=light)](https://skillicons.dev)
 
-
-
-
-
-
+## Count Number
+![Linear-optimize](https://count.getloli.com/get/@Linear-optimize?theme=moebooru-h)
