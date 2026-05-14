@@ -2,13 +2,13 @@
 
 ## Github Stats
 <p align="center">
-  <img src="https://github-readme-stats-ten-rosy-58.vercel.app/api?username=Linear-optimize&show_icons=true&theme=nord&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-ten-rosy-58.vercel.app/api?username=Linear-optimize&show_icons=true&theme=catppuccin_mocha&count_private=true&hide_border=true" height="165" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-ten-rosy-58.vercel.app/api/top-langs/?username=Linear-optimize&layout=compact&theme=nord&langs_count=6&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-ten-rosy-58.vercel.app/api/top-langs/?username=Linear-optimize&layout=compact&theme=catppuccin_mocha&langs_count=8&hide_border=true" height="165" />
 </p>
 
 ## Github Activity Graph
-[![Linear-optimize's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Linear-optimize&theme=nord)](https://github.com/Linear-optimize/github-readme-activity-graph)
+![Activity](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Linear-optimize&theme=transparent)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=c,docker,git,neovim,vscode,clion&theme=light)](https://skillicons.dev)
