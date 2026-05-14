@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:cba6f7,50:89b4fa,100:74c7ec&text=Linear-optimize&fontSize=46&fontColor=fff&desc=C%20%7C%20Embedded%20Systems%20Engineer&descSize=16&fontAlignY=34&animation=twinkling&descAlignY=54)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:cba6f7,50:89b4fa,100:74c7ec&text=Linear-optimize&fontSize=46&fontColor=fff&desc=C%20%7C%20Embedded%20Systems&descSize=16&fontAlignY=34&animation=twinkling&descAlignY=54)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&color=CBA6F7&lines=Hi!+I'm+just+a+person+who+loves+Embedded+Systems)](https://git.io/typing-svg)
 
