@@ -16,7 +16,7 @@
 ### Github Activity Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=Linear-optimize&bg_color=181825&color=cba6f7&line=89b4fa&point=a6e3a1&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### // Tech Stack
+### Tech Stack
 
 [![Skills](https://skillicons.dev/icons?i=c,docker,git,neovim,vscode,clion&theme=dark)](https://skillicons.dev)
 
