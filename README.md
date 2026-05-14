@@ -8,7 +8,8 @@
 </p>
 
 ## Github Activity Graph
-![Activity](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Linear-optimize&theme=transparent)
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="My Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Linear-optimize&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=c,docker,git,neovim,vscode,clion&theme=light)](https://skillicons.dev)
