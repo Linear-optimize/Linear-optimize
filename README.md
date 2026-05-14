@@ -20,6 +20,6 @@
 ### Count Number
 ![Linear-optimize](https://count.getloli.com/get/@Linear-optimize?theme=moebooru-h)
 
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ff6b8a,100:e8622c&height=100&section=footer)
 
 
