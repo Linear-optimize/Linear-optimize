@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:e8622c,50:ff6b8a,100:ffffff&text=Linear-optimize&fontSize=50&fontColor=fff&desc=C%20|%20Embedded%20%20System&descSize=18&fontAlignY=35&animation=twinkling&descAlignY=55)
+![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:cba6f7,50:89b4fa,100:ffffff&text=Linear-optimize&fontSize=50&fontColor=fff&desc=C%20|%20Embedded%20%20System&descSize=18&fontAlignY=35&animation=twinkling&descAlignY=55)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hi!+I%27m+just+a+person+who+loves+Embedded+Systems)](https://git.io/typing-svg)
 
@@ -20,6 +20,5 @@
 ### Count Number
 ![Linear-optimize](https://count.getloli.com/get/@Linear-optimize?theme=moebooru-h)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ff6b8a,100:e8622c&height=100&section=footer)
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:89b4fa,100:cba6f7&height=100&section=footer)
 
