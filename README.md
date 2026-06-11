@@ -37,7 +37,7 @@
 ###  Visitor Count
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Linear-optimize?theme=catppuccin_mocha" />
+  <img src="https://count.getloli.com/get/@Linear-optimize?theme=booru-touhoulat" />
 </p>
 
 ---
