@@ -12,10 +12,7 @@
   <img src="https://github-readme-stats-ten-rosy-58.vercel.app/api/top-langs/?username=Linear-optimize&layout=compact&theme=catppuccin_mocha&langs_count=5&hide_border=true&bg_color=181825" height="165" />
 </p>
 
----
 
-###  WakeTime Graph
-[![lieanr_optimze's wakatime stats](https://github-readme-stats-sigma-azure-35.vercel.app/api/wakatime?username=lieanr_optimze&theme=catppuccin_mocha&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
