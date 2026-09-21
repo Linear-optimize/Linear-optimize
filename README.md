@@ -15,7 +15,7 @@
 ---
 
 ###  WakeTime Graph
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lieanr_optimze&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![lieanr_optimze's wakatime stats](https://github-readme-stats-sigma-azure-35.vercel.app/api/wakatime?username=lieanr_optimze&theme=catppuccin_mocha&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
