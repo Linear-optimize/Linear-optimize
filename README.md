@@ -14,13 +14,9 @@
 
 ---
 
-###  Github Activity Graph
+###  WakeTime Graph
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lieanr_optimze&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Linear-optimize&bg_color=181825&color=cba6f7&line=89b4fa&point=a6e3a1&hide_border=true" />
-  </a>
-</p>
 
 ---
 
